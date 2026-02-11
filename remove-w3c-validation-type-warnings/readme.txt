@@ -3,9 +3,9 @@ Contributors: sumitmalviya
 Donate link: https://www.webfriendy.com/contact-us/
 Tags: SEO, Yoast, load time, w3c, nofollow
 Requires at least: 4.8
-Tested up to: 6.5
+Tested up to: 6.9
 Stable tag: 1.0.0
-Requires PHP: 5.0
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
