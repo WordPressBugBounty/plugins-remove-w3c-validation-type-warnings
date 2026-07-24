@@ -60,10 +60,18 @@ https://validator.w3.org/nu/
 
 == Screenshots ==
 
-1. https://www.webfriendy.com/wp-content/uploads/2020/05/w3c-type-warning-removal-plugin.png
-2. https://www.webfriendy.com/wp-content/uploads/2020/05/header-image.png
+1. Plugin overview showing type attribute warning removal.
+2. Plugin banner and validation improvement example.
 
 == Changelog ==
+
+= 1.0.0 =
+
+* Initial release.
+* Removes unnecessary type attributes from script tags.
+* Removes unnecessary type attributes from style tags.
+* Improves W3C validation compliance.
+* Lightweight and easy to use.
 
 
 == Upgrade Notice ==
